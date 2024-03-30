@@ -9,8 +9,10 @@ from movies_scraper import search_movies, get_movie
 # from telegram import dispatcher
 
 
-TOKEN = os.getenv("TOKEN")
-URL = os.getenv("URL")
+# TOKEN = os.getenv("TOKEN
+TOKEN = "6476441163:AAEJBiJh9EcPtq5r1one_Eszmk7AILnlObI"
+# URL = os.getenv("URL")
+URL = ""
 bot = Bot(TOKEN)
 
 
